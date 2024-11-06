@@ -10,3 +10,5 @@ Estimate the model parameters to improve the agreement between the model and the
 - $\sigma_y$: yield stress
 - $H$: plastic hardening modulus
 - $n$: plastic hardening modulus exponent
+
+Begin your solution in this [notebook](linear-elasticity-nonlinear-hardening.ipynb)
