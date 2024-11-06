@@ -1,6 +1,6 @@
 # Inverse problem challenge
 
-The below figure illustrates the default linear elastic-nonlinear hardening model and the experimental observations. It is clear that the agreement between the model and experimental observations is poor.
+The below figure illustrates the default linear elastic-nonlinear hardening model and a given set of 20 experimental observations. It is clear that the agreement between the model and experimental observations is poor.
 
 ![](figures/default-model.png)
 
